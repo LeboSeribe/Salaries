@@ -1,13 +1,15 @@
 # Salaries
 
 
-Assignment
-Instructions
+## Assignment
+
+### Instructions
+
 In the next series of challenges, we will predict employee salaries from different employee characteristics (or features). We ask employees working in four different fields to state their salary and some background information.
 
 Import the data salary.csv to a Jupyter Notebook. You will need the packages matplotlib, seaborn, pandas and statsmodels. A description of the variables is given in Salary metadata.csv.
 
-Questions
+### Questions
 How many responders are there? Are there any missing values in any of the variables?
 What is the lowest salary and highest salary in the group?
 What is the mean salary for the sample? Include the standard error of the mean.
