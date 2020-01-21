@@ -11,11 +11,17 @@ Import the data salary.csv to a Jupyter Notebook. You will need the packages mat
 
 ### Questions
 How many responders are there? Are there any missing values in any of the variables?
+
 What is the lowest salary and highest salary in the group?
+
 What is the mean salary for the sample? Include the standard error of the mean.
+
 What is the standard deviation for the years worked?
+
 What is the median salary for the sample?
+
 What is the interquartile range for salary in the sample?
+
 How many men are there in the sample? How many women are there in the sample? Present this information in a table.
 How many women are executives compared to men?
 Create a histogram for the variable Salary.
